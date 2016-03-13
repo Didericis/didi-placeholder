@@ -20,7 +20,7 @@ app.use(stylus.middleware({
 app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', function(req, res) {
     res.render('index', {
-        title : 'Home'
+        title : 'Coming Soon'
     });
 });
 app.listen(80);
