@@ -1,0 +1,26 @@
+{
+  "name": "didi-placeholder",
+  "version": "1.0.0",
+  "description": "Placeholder for didericis websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Didericis/didi-placeholder.git"
+  },
+  "author": "didericis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Didericis/didi-placeholder/issues"
+  },
+  "homepage": "https://github.com/Didericis/didi-placeholder#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0",
+    "nib": "^1.1.0",
+    "stylus": "^0.54.2"
+  }
+}
